@@ -1,4 +1,4 @@
-module marwan.io/gowatch
+module github.com/morning-bird/gowatch
 
 go 1.17
 
